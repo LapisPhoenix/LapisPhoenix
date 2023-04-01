@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name Lapis Pheonix, and I'm YouTuber, developer, & student.</h2>
+<h2 align="left">Hi 👋! My name Lapis Pheonix</h2>
+<h3 align="left">I'm YouTuber, developer, & student.</h3>
+
+
 
 ###
 

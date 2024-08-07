@@ -1,0 +1,9 @@
+- name: GitHub Readme YouTube Cards
+# You may pin to the exact commit or the version.
+# uses: DenverCoder1/github-readme-youtube-cards@bea8b4bc2094973fe3c3a49d86076328588dc454
+uses: DenverCoder1/github-readme-youtube-cards@1.8.0
+with:
+  channel_id:
+  lang: "en"
+  max_videos: 6
+  youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}

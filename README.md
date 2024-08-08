@@ -1,6 +1,7 @@
 # 🐦‍🔥 Lapis Pheonix
 
-**`Digital Janitor (Developer/Learner/Creator)`**
+> **`Digital Janitor (Developer/Learner/Creator)`**
+> <img src="88260244.png" width="300px" align="right"/>
 
 I'm a small developer, and youtube content creator making the world better every with creation. All coding projects are built with purpose, from the ground up, planning and desiging to solving real-world problems with reliable code.
 

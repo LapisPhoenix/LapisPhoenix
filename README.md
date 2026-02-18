@@ -1,4 +1,4 @@
-# I HAVE MOVED TO (codeberg.org)[https://codeberg.org/LapisPheonix/]
+# I HAVE MOVED TO [codeberg.org](https://codeberg.org/LapisPheonix/)
 
 ---
 

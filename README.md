@@ -1,3 +1,7 @@
+# I HAVE MOVED TO [codeberg.org][(https://codeberg.org/LapisPheonix/)
+
+---
+
 # 🐦‍🔥 Lapis Pheonix
 
 > **`Digital Janitor (Developer/Learner/Creator)`**
